@@ -1,7 +1,22 @@
 Overview
 
 
+
 https://www.facebook.com/watch/?v=5361412517203512
+
+
+
+
+
+
+![2](https://user-images.githubusercontent.com/75699010/219812625-0b2a86fe-13f2-4dbb-941f-624db83c27a4.jpg)
+
+
+
+
+
+
+
 
 Revenge of the Hamster is a 2D platformer that takes reference from many classic games such as Super Mario Bros. and Sonic the Hedgehog.  The game is inspired by some Covid-19-related real-life events in Hong Kong, where the government requested pet owners to surrender their hamsters for killing to stop the viral spread. Through the game, players can control the hamster to fight for its dear life by running through different places in Hong Kong. After completing 4 levels, the hamster will finally gain its freedom.
 
