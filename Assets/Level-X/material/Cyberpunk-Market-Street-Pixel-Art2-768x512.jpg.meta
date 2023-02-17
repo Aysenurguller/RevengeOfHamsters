@@ -1,0 +1,2234 @@
+fileFormatVersion: 2
+guid: ec3c85e4cd6d7d54d94e0e8b95fba468
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a80fd4ea7e398a42ad76a40e90e4341
+      internalID: 1087213767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 259.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d6c4ffea1a4e940ba98e8d5ccf0962
+      internalID: -744459849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 259.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded429ad68b6a23409cad3d8ba7cc0c6
+      internalID: -1358387556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 259.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889edc52437355241abbae55b259d1ce
+      internalID: 1150449026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 259.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f2b3d2fcbd85b47844b409dffb3f80
+      internalID: -1774476625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 259.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c384f8d7bd173e84ba4b1f67b0157f58
+      internalID: 1376009163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 259.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310011ce330084b45b2ed5ea8c9150c7
+      internalID: 399225477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 259.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff4dd968ca627e48a40f47ae2d7e3d5
+      internalID: -1136624208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 259.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8676a34db964d44daa907b84e716067
+      internalID: -1170521103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 259.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1db409e5f162634bb7c541228e73ace
+      internalID: 312638146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 259.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0141d11882a3c4481b3741e2776020
+      internalID: 147560738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 259.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1d25772c7072b4d9ae49ea18ca3738
+      internalID: -1997927238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6834d832ad75b7a448dde550cdad856b
+      internalID: -1872152228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 222.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2e1f12237e73242a383ec49860ffc6
+      internalID: -777976140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 222.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8466018607b90c240899697835f0e7f4
+      internalID: -1585941429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 222.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4136bfb9d62c4442ad49da91080c5b0
+      internalID: 1885532038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 222.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bb4876c60c7ae4fb6be73e2f121c85
+      internalID: -1115208507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_17
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 222.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a0e228238edac45a7d11805efebf9f
+      internalID: 1957378392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_18
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 222.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1152aeb7ca9e3a549bae3f977d571d79
+      internalID: -1716829469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 222.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e48ce41ed35e854690295053f9410cd
+      internalID: 1759978884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 222.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e55976eeb783942aa685ce2fbbc874
+      internalID: -1061895430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_21
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 222.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5112390c715ba2f48b0b1c85daaf248f
+      internalID: -1798513837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 222.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fe289ccb11d9440a2bd556863e2c0a
+      internalID: -1417291803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_23
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 222.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85e0e4ba06d1424e9aa80d038ed7792
+      internalID: 136613609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e49aca2b94e24459a8751f12dfa370
+      internalID: 1046429290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 185.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c89e8cbba4c7564fbd6bea4918281b8
+      internalID: -1303083424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 185.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ec9320fe437b94d87b7a8889e55bbb
+      internalID: -1228988312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 185.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0566fd21945d5940bb283d03ae5c90d
+      internalID: -149069850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_28
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 185.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996ced29cfb1f8d4ea694330a33ce037
+      internalID: 1316028277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_29
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 185.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e664b8bb027cb4d9938c1967b16722
+      internalID: 1106645934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_30
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 185.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36415d4f505301c49b2f1bfd68e78cfe
+      internalID: -58162239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 185.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32439c89b5e483b4abfea98d9e385599
+      internalID: -1230174153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 185.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1435a6be7db587f4bb0c4b3cd118b239
+      internalID: -1742180280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_33
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 185.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4899722ad213b784bb9e93027665be3c
+      internalID: 521587585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_34
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 185.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dfe65f6515f584fa4a3462181bc4f9
+      internalID: -1110096696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_35
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 185.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2a0027b36df444da5ca008b5d74772
+      internalID: 1690837697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff03e5d8bc051d4d95061e6645d26f3
+      internalID: 1824690372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 148.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ac71588feec03469a61d50abdffc56
+      internalID: -2147333450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_38
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 148.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b554085d2d18a4381c85b60b3e32c9
+      internalID: 13858964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_39
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 148.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508d01da6c8a9064e848a29a09c6f2d4
+      internalID: 732015681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 148.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648335ab3bca0424d91baf54a45dd5ef
+      internalID: -144448386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_41
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 148.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc7e0bbcfa7ce54fb55194ecfd15b06
+      internalID: -178984549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_42
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 148.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18aff06c9ecdbec47b9dd809946c3d81
+      internalID: 2020250126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_43
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 148.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd43ae2cd8f931d4c9bc36a17faa0a5e
+      internalID: -166862289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_44
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 148.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c87f586f8b89a4ca0f88b3c13541ac
+      internalID: -1125968739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_45
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 148.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd92c9190a1b18044b426479c73fff86
+      internalID: 811189236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_46
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 148.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7634996778f3f754692f0449e566d8a7
+      internalID: -955533172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_47
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 148.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525d0d5572fcad542b50ea6f05d9bc77
+      internalID: 1458124892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29446d96458d7ea4eb1b974654578017
+      internalID: -1161620483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_49
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 111.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd6311eee0ee21488894b884d496fcb
+      internalID: -509713413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 111.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576aba19903bc7a49bdf381de7fdf812
+      internalID: 726522835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_51
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdd2eb2ba5dff242a23b93f4020603a
+      internalID: 517251136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_52
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 111.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182b971beaa8806448df0c7203f50d65
+      internalID: 909280215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_53
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 111.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141152bba0abef94da0988a4d20a5ffc
+      internalID: -1368098157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_54
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 111.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293d1d04a4d2ea24f823cf985f317d66
+      internalID: -759525354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_55
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 111.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f5064244dc18d4e8f2b8ef50b3e226
+      internalID: -1692295278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_56
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 111.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7a1f3350b1ca84db374bd039f0f216
+      internalID: -1519448394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_57
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 111.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c92eea9e4893d44a8acd289920060b4
+      internalID: -832188751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_58
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 111.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681824943c3e75546ab7527cd7a04cf4
+      internalID: -1762958402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_59
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 111.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d04e848e916b7c42bf5b51ceccbe554
+      internalID: 378434948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6fd6ffe24bcb54dba8fcd460a172fb
+      internalID: 1948431321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_61
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 74.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9828e0399a3a9984ca222e2d48c2169c
+      internalID: 1790647812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_62
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 74.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cc223e129a44f4097b4eaf4e5287e2
+      internalID: -285811424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_63
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 74.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddd97d0f3633884d8a794584da2366a
+      internalID: -1736996185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_64
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 74.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4451fefdabebe45bb7d0ecb18a6dc0
+      internalID: 22776132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_65
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 74.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3494d7114e898184c96c872085c94cae
+      internalID: 1408687399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_66
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 74.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a66c0934181dfc4096404fb5d5ee9af
+      internalID: -1508327742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_67
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 74.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079c2b5b63d2cde418c634a1ac75da59
+      internalID: 1570240329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_68
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 74.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acc02418ca139243bfda8f19f660105
+      internalID: -1334264557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_69
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 74.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437c15d8a90174c45aa2aec5578f12e8
+      internalID: -135297966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_70
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 74.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03c8f435a201d742a57006744680894
+      internalID: -1518622497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_71
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 74.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c107c9553f2161745b693f622e63a336
+      internalID: 1409082636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23a93b8fd1ad19439afb7599dff986c
+      internalID: -1427942326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_73
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2807368027f6dcb4d921e1c875229069
+      internalID: -205353850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_74
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 37.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67c9e12053cdf64f8cbb3bbd122b54e
+      internalID: 1293875487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_75
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 37.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a538bd2b9e67b4abd662d6cd6c1abb
+      internalID: 423006893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_76
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 37.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6543a6ec5036b4a408714b0545f2c163
+      internalID: 1134576071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_77
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 37.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a235bfb165574ef4eb425e707b408899
+      internalID: 910534437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_78
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 37.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ea9bf1c000530489129f0ab7264475
+      internalID: 332978708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_79
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 37.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387d66d3e4906354f9cb53779bcc385b
+      internalID: 793054075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_80
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 37.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf9293bd7f451b4fb750ad4f55e20fd
+      internalID: 1943497022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_81
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 37.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb6945b87be91b4289bf0021fead160
+      internalID: -1501586091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_82
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 37.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f571491b104a35747b0c12723320827f
+      internalID: 789369418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_83
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 37.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc5b52499ac62b4babedf4284e43986
+      internalID: -1342415826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a748b77dd3187c428bd53b277531375
+      internalID: -1984544320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_85
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49efca6e77f74cf4db0e90f39bf1d257
+      internalID: -1550651429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_86
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955f9e9d3361acf428018eb6cdc81d5f
+      internalID: 931640784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_87
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9c4865348055e40a4eec24b628993c
+      internalID: 929509625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_88
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36494b7141116dd4ab1fab8fc780d51f
+      internalID: -683629291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_89
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9677784df82dcc4c96cf1da93211f08
+      internalID: 1376287537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_90
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225bda97e746b524ea807e40f4f48d6f
+      internalID: 841310429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_91
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae870b62eb581246bf781c7159324a8
+      internalID: 217716153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_92
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9214fa88aa8136c4db0e80ad7c70c4b1
+      internalID: 202396017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_93
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fdb496d2f45fe408fe498280784efb
+      internalID: 1047681131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_94
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb356380a52dd34288bb06877f60f4a
+      internalID: -1991650679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk-Market-Street-Pixel-Art2-768x512_95
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0.875
+        width: 37.083332
+        height: 37.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a7afd9efc14a44282a9efb85fe9bea
+      internalID: -1172725762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_70: -1518622497
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_42: 2020250126
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_74: 1293875487
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_93: 1047681131
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_15: 1885532038
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_78: 332978708
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_85: -1550651429
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_51: 517251136
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_33: 521587585
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_4: -1774476625
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_60: 1948431321
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_68: -1334264557
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_84: -1984544320
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_43: -166862289
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_16: -1115208507
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_80: 1943497022
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_0: 1087213767
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_81: -1501586091
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_31: -1230174153
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_77: 910534437
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_26: -1228988312
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_92: 202396017
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_86: 931640784
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_30: -58162239
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_47: 1458124892
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_44: -1125968739
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_71: 1409082636
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_58: -1762958402
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_18: -1716829469
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_38: 13858964
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_48: -1161620483
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_50: 726522835
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_40: -144448386
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_37: -2147333450
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_61: 1790647812
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_53: -1368098157
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_9: 312638146
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_23: 136613609
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_79: 793054075
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_41: -178984549
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_75: 423006893
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_49: -509713413
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_20: -1061895430
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_29: 1106645934
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_69: -135297966
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_19: 1759978884
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_76: 1134576071
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_7: -1136624208
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_56: -1519448394
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_83: -1342415826
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_36: 1824690372
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_46: -955533172
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_57: -832188751
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_73: -205353850
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_2: -1358387556
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_88: -683629291
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_14: -1585941429
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_67: 1570240329
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_21: -1798513837
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_62: -285811424
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_95: -1172725762
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_55: -1692295278
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_12: -1872152228
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_65: 1408687399
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_90: 841310429
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_11: -1997927238
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_94: -1991650679
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_34: -1110096696
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_59: 378434948
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_3: 1150449026
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_10: 147560738
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_89: 1376287537
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_54: -759525354
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_24: 1046429290
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_35: 1690837697
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_91: 217716153
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_66: -1508327742
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_39: 732015681
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_45: 811189236
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_64: 22776132
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_5: 1376009163
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_17: 1957378392
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_25: -1303083424
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_63: -1736996185
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_82: 789369418
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_6: 399225477
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_1: -744459849
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_22: -1417291803
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_87: 929509625
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_13: -777976140
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_8: -1170521103
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_28: 1316028277
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_27: -149069850
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_72: -1427942326
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_32: -1742180280
+      Cyberpunk-Market-Street-Pixel-Art2-768x512_52: 909280215
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

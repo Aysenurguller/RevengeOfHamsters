@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 3ca463d065dc33b48b5afdee5f9554fe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 383
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9a31eba6ea882448ca65713387b455
+      internalID: -616910138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 388
+        width: 68
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27cbee201aee374aa9f6224d1364be4
+      internalID: 1354326985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 384
+        width: 106
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14cc726930f5194199b5c0994d6e426
+      internalID: -661795618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_3
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 393
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc5d7527115c3c459d34d1205324244
+      internalID: -899856739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 314
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2f13eecc334db4395f1f18f2c4c6c4
+      internalID: -1096139964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 335
+        width: 78
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0784a54b8b5e37743a506542a40fe696
+      internalID: -687034491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 314
+        width: 134
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf830fc726e63ed4e9293be8fe97b56b
+      internalID: -1800180921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 159
+        width: 274
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a308f225a69d5404fa328896af06cd78
+      internalID: -1178195119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_8
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 159
+        width: 63
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c6d1e16116fc344894db3b3852021d
+      internalID: -1165099110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 158
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc6e40c6b50b1e448d613f32330360a
+      internalID: 281431219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_10
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 158
+        width: 64
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6c4fd34bc1ce34ea9d5095b5b14a32
+      internalID: 474384042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_11
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 158
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accf0bbf8aeefb24c8a373930b4e8554
+      internalID: -1572121306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_12
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 79
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bc092b70303324f831943f16d01964
+      internalID: -1008537900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_13
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 8
+        width: 67
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f436ec082a1994946a8e369e7223286a
+      internalID: 1451488424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_14
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 0
+        width: 69
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ad63697979ae0468458d51d6788fd0
+      internalID: -1484018982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_15
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 9
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77022384fa54c649bd5f481338a71dd
+      internalID: -1558258231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_16
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 9
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac605d51924df846a9ab85f3c446b45
+      internalID: -974669600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_1: 1354326985
+      Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_10: 474384042
+      Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_9: 281431219
+      Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_0: -616910138
+      Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_14: -1484018982
+      Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_15: -1558258231
+      Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_13: 1451488424
+      Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_8: -1165099110
+      Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_7: -1178195119
+      Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_4: -1096139964
+      Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_3: -899856739
+      Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_6: -1800180921
+      Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_5: -687034491
+      Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_11: -1572121306
+      Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_2: -661795618
+      Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_16: -974669600
+      Bar-Street-Tileset-Pixel-Art-Pack2-768x512 (2)_12: -1008537900
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
